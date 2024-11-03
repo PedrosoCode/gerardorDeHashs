@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OykXlgidtDs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\gerardorDeHashs\\gerardorDeHashs.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
